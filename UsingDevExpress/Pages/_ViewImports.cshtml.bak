@@ -1,0 +1,3 @@
+﻿@using UsingDevExpress
+@namespace UsingDevExpress.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
